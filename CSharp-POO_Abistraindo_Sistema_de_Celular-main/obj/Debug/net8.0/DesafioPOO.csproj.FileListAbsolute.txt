@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\bin\Debug\net8.0\DesafioPOO.exe
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\bin\Debug\net8.0\DesafioPOO.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\bin\Debug\net8.0\DesafioPOO.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\bin\Debug\net8.0\DesafioPOO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\bin\Debug\net8.0\DesafioPOO.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\obj\Debug\net8.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\obj\Debug\net8.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\obj\Debug\net8.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\obj\Debug\net8.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\obj\Debug\net8.0\DesafioPOO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\obj\Debug\net8.0\refint\DesafioPOO.dll
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\obj\Debug\net8.0\DesafioPOO.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\obj\Debug\net8.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\CSharp-POO_Abistraindo_Sistema_de_Celular-main\CSharp-POO_Abistraindo_Sistema_de_Celular-main\obj\Debug\net8.0\ref\DesafioPOO.dll
